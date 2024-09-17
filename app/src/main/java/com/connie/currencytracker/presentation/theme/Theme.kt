@@ -1,6 +1,5 @@
-package com.connie.currencytracker.ui.theme
+package com.connie.currencytracker.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

@@ -1,4 +1,4 @@
-package com.connie.currencytracker.ui.theme
+package com.connie.currencytracker.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
