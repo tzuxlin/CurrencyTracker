@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">CurrencyTracker</string>
+
+    <string name="save_success">Save succeeded</string>
+    <string name="save_failure">Save failed</string>
+    <string name="clear_success">Clear succeeded</string>
+    <string name="clear_failure">Clear failed</string>
+    <string name="navigate_detail">Simulated navigation to \"%1$s\" detail page…</string>
+    <string name="save_current_list_to_database">Save current list to database</string>
+    <string name="clear_database">Clear database</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="no_currencies_available">No currencies available.</string>
+    <string name="search">Search</string>
+    <string name="find_a_currency">Find a currency…</string>
+    <string name="clear">Clear</string>
+    <string name="not_found">Not Found</string>
+    <string name="no_results_try_bit">No Results\nTry \"Bit\"</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="more">More</string>
+    <string name="crypto">Crypto</string>
+    <string name="fiat">Fiat</string>
 </resources>
